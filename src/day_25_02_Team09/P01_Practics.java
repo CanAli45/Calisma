@@ -1,6 +1,4 @@
-package T113_Team09_25_02;
-
-import java.util.Scanner;
+package day_25_02_Team09;
 
 public class P01_Practics {
     public static void main(String[] args) {

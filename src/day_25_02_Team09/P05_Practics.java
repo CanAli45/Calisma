@@ -1,4 +1,4 @@
-package T113_Team09_25_02;
+package day_25_02_Team09;
 
 import java.util.Scanner;
 
